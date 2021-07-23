@@ -1,5 +1,12 @@
 body {
   min-height: 2000px;
+  font-family: 'Barlow Condensed', 'Nanum Gothic', sans-serif;
+}
+
+/* Nav */
+.navbar-brand {
+  font-family: 'Viga', sans-serif;
+  color: #3282b8;
 }
 
 /* Jumbotron */
@@ -58,7 +65,7 @@ footer p a {
   color: #777;
   transition: color 0.7s;
   text-decoration: none;
-  font-weight: bold;
+  font-weight: 600;
 }
 
 footer span {
